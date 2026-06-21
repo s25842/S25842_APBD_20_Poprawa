@@ -1,0 +1,6 @@
+@S25842_Poprawa_HostAddress = http://localhost:5039
+
+GET {{S25842_Poprawa_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
